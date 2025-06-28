@@ -32,7 +32,7 @@ nnfs (for dataset generation)
 
 ## Results
 ### Popular Moon Dataset
-Achieved **98% training accuracy**
+Achieved **95% training accuracy**
 Smooth decision boundary, low loss convergence
 
 ### Popular Spiral Dataset
